@@ -2,6 +2,9 @@
     "name": "mern-extension-pack",
     "displayName": "MERN Extension Pack",
     "publisher": "Saksham",
+    "author": {
+        "name": "Saksham Johri"
+    },
     "description": "This extention pack will provide you all the necessary extensions for a React Js / React Native Project",
     "version": "0.0.1",
     "repository": {
