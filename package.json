@@ -1,0 +1,36 @@
+{
+    "name": "mern-extension-pack",
+    "displayName": "MERN Extension Pack",
+    "publisher": "Saksham",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "abusaidm.html-snippets",
+        "christian-kohler.npm-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "DiemasMichiels.emulate",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "EQuimper.react-native-react-redux",
+        "Equinusocio.vsc-material-theme",
+        "equinusocio.vsc-material-theme-icons",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "meganrogge.template-string-converter",
+        "naumovs.color-highlight",
+        "PKief.material-icon-theme",
+        "progre.promise-snippets",
+        "ritwickdey.LiveServer",
+        "xabikos.JavaScriptSnippets",
+        "Zignd.html-css-class-completion"
+    ]
+}
